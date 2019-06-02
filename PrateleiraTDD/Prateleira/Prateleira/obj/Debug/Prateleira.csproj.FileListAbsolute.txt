@@ -1,0 +1,6 @@
+C:\Movidesk\DesafioMovidesk\PrateleiraTDD\Prateleira\Prateleira\bin\Debug\Prateleira.dll
+C:\Movidesk\DesafioMovidesk\PrateleiraTDD\Prateleira\Prateleira\bin\Debug\Prateleira.pdb
+C:\Movidesk\DesafioMovidesk\PrateleiraTDD\Prateleira\Prateleira\obj\Debug\Prateleira.csprojAssemblyReference.cache
+C:\Movidesk\DesafioMovidesk\PrateleiraTDD\Prateleira\Prateleira\obj\Debug\Prateleira.csproj.CoreCompileInputs.cache
+C:\Movidesk\DesafioMovidesk\PrateleiraTDD\Prateleira\Prateleira\obj\Debug\Prateleira.dll
+C:\Movidesk\DesafioMovidesk\PrateleiraTDD\Prateleira\Prateleira\obj\Debug\Prateleira.pdb
